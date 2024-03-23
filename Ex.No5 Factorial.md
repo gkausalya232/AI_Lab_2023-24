@@ -1,7 +1,7 @@
 # Ex.No: 5   Logic Programming – Factorial of number   
 ### DATE: 11/8/2024                                                                        
 ### REGISTER NUMBER : 212221040076
-### AIM: 
+### AIM:  
 To  write  a logic program for finding the factorial of given number using SWI-PROLOG. 
 ### Algorithm:
 1. STEP 1: Start the program
