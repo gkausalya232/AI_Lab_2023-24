@@ -1,4 +1,4 @@
-![ex no 11](https://github.com/gkausalya232/AI_Lab_2023-24/assets/133086820/1b1beff9-a0c8-42e0-a995-a1b518eda4df)# Ex.No: 11  Planning –  Block World Problem 
+# Ex.No:11 Block World Problem
 ### DATE:    1/04/2024                                                                        
 ### REGISTER NUMBER : 212221040076
 ### AIM: 
